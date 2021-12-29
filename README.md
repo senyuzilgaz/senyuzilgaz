@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senyuzilgaz
+- 👋 Hi, I’m Ilgaz!
 - 👀 I’m enthusiastic about developing new skills.
 - 🌱 I’m currently working with C#, .NET Core, Javascript, Mssql and RabbitMQ.
 <!---
